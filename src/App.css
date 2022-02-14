@@ -23,6 +23,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background: url("../assets/images/image.png");
+  background-size: cover;
 }
 
 .App-link {

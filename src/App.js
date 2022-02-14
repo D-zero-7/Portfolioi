@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+
         <img src="https://i.gifer.com/PpB.gif" className="App-logo" alt="logo" />
         <p>
           New Portfolio Coming Soon!
