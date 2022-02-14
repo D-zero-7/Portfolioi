@@ -1,21 +1,21 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://i.gifer.com/PpB.gif" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          New Portfolio Coming Soon!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://d-zero-7.github.io/my_info/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          click here for old portfolio
         </a>
       </header>
     </div>
